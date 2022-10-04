@@ -30,4 +30,5 @@ define("a","Hello const variable");
 
 
 //Dump use for value check any argument;
-var_dump($num)
+var_dump($num);
+?>
