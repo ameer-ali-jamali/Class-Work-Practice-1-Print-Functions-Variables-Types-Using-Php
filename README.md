@@ -10,3 +10,7 @@ Variable names can only contain alpha-numeric characters and underscores (A-z, 0
 Variables must start with a letter or the underscore “_” character.
 Variables are case sensitive
 Variable names cannot start with a number.
+
+# PHP Comments
+
+A comment is a part of the coding file that the programmer does not want to execute, rather the programmer uses it to either explain a block of code or to avoid the execution of a specific part of code while testing.
